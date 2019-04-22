@@ -1,0 +1,16 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "Test Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.4.2",
+    "winson": "^1.0.0"
+  }
+}
